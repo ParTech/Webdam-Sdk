@@ -1,0 +1,17 @@
+# General macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build results
+bin/
+obj/
+
+# Visual Studio 2015/2017 cache/options directory
+.vs/
+
+# The packages folder can be ignored because of Package Restore
+packages/*
+
+# Visual Studio code coverage results
+coverage.opencover.xml
